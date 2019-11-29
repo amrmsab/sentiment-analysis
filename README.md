@@ -19,5 +19,5 @@ All the data files are in the zip.
 2) ML models: Sklearn's Logistic Regression, Naive Bayes, AdaBoost, XGBoost, Random Forests, Linear SVM, and Neural Nets.
 
 ## To whom this is targetted
-Students who want to learn the basics of processing test data and build their first sentiment analysis model.
+Students who want to learn the basics of processing test data and build their first Natural Language Processing/sentiment analysis model.
 I focus much on the preliminary data analysis so that you get a feel of what goes in a data science project before any of the code is written
